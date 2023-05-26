@@ -3,8 +3,6 @@
 #Rendelkezzen továbbá a kerület és terület számításra is egy-egy metódussal!
 
 
-
-
 class Négyzet:
     def __init__(self):
         self.négyzetoldal = 0
